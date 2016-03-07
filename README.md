@@ -87,6 +87,7 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
 - [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
 - [Interpolation](https://github.com/scenevr/interpolation-component) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer.
+- [HTMLTexture](https://github.com/scenevr/htmltexture-component) - Use html as a texture on your entities, including live updates of the content.
 
 ### Integration
 
@@ -146,6 +147,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [E-commerce Spy Store](http://vr.ispystore.ca/) (by [@drawvr]) - Black & white environment with fire
 - [E-commerce Gallery](http://vr.gadgetplus.ca/) (by [@drawvr]) - Product gallery in a large well-lit building
 - [Living Room](http://drawvr.com/living-room/) (by [@drawvr]) - Watch TV from your luxurious living room by the beach
+- [Subreddit gallery](http://reddit.com/r/aww) (by [@scenevr]) - View subreddits as virtual galleries
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
