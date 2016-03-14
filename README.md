@@ -86,8 +86,8 @@ Third-party A-Frame components (of the entity-component-system pattern).
 - [Template](https://github.com/ngokevin/aframe-template-component) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
 - [Stereo](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using THREE.js layers so you can render 3D stereoscopic videos (full and half-dome)
 - [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
-- [Interpolation](https://github.com/scenevr/interpolation-component) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer.
-- [HTML Texture](https://github.com/scenevr/htmltexture-component) - Using HTML as a texture, powered by html2canvas.
+- [Interpolation](https://github.com/scenevr/interpolation-component) (by [@scenevr](https://www.scenevr.com/)) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer.
+- [HTML Texture](https://github.com/scenevr/htmltexture-component) (by [@scenevr](https://www.scenevr.com/)) - Using HTML as a texture, powered by html2canvas.
 
 ### Integration
 
